@@ -1,0 +1,106 @@
+[{
+    "id": 1,
+    "nome": "Coca Cola",
+    "prezzo": 50,
+    "categoria": "Bevanda analcolica"
+  }, {
+    "id": 2,
+    "nome": "Fanta",
+    "prezzo": 89,
+    "categoria": "Bevanda analcolica"
+  }, {
+    "id": 3,
+    "nome": "Sprite",
+    "prezzo": 78,
+    "categoria": "Bevanda analcolica"
+  }, {
+    "id": 4,
+    "nome": "Red Bull",
+    "prezzo": 67,
+    "categoria": "Bevanda analcolica"
+  }, {
+    "id": 5,
+    "nome": "Gazzosa",
+    "prezzo": 82,
+    "categoria": "Bevanda analcolica"
+  }, {
+    "id": 6,
+    "nome": "Amaro Lucano",
+    "prezzo": 72,
+    "categoria": "Bevanda alcolica"
+  }, {
+    "id": 7,
+    "nome": "Jameson",
+    "prezzo": 70,
+    "categoria": "Bevanda alcolica"
+  }, {
+    "id": 8,
+    "nome": "Oban",
+    "prezzo": 33,
+    "categoria": "Bevanda alcolica"
+  }, {
+    "id": 9,
+    "nome": "Jack Daniel's",
+    "prezzo": 59,
+    "categoria": "Bevanda alcolica"
+  }, {
+    "id": 10,
+    "nome":  "Montenegro ",
+    "prezzo": 83,
+    "categoria": "Bevanda alcolica"
+  }, {
+    "id": 11,
+    "nome": "Birra",
+    "prezzo": 28,
+    "categoria": "Bevanda alcolica"
+  }, {
+    "id": 12,
+    "nome": "Vino",
+    "prezzo": 51,
+    "categoria": "Bevanda alcolica"
+  }, {
+    "id": 13,
+    "nome": "Gin Mare",
+    "prezzo": 96,
+    "categoria": "Bevanda alcolica"
+  }, {
+    "id": 14,
+    "nome": "Rum Papa",
+    "prezzo": 39,
+    "categoria": "Bevanda alcolica"
+  }, {
+    "id": 15,
+    "nome": "Macallan Scotch",
+    "prezzo": 24,
+    "categoria": "Bevanda alcolica"
+  }, {
+    "id": 16,
+    "nome": "Vecchia Romagna Brandy",
+    "prezzo": 28,
+    "categoria": "Bevanda alcolica"
+  }, {
+    "id": 17,
+    "nome": "Martini",
+    "prezzo": 45,
+    "categoria": "Bevanda alcolica"
+  }, {
+    "id": 18,
+    "nome": "Amaro del Capo",
+    "prezzo": 12,
+    "categoria": "Bevanda alcolica"
+  }, {
+    "id": 19,
+    "nome": "Gin Bombay",
+    "prezzo": 81,
+    "categoria": "Bevanda alcolica"
+  }, {
+    "id": 20,
+    "nome": "Hendrick's",
+    "prezzo": 66,
+    "categoria": "Bevanda alcolica"
+  }, {
+    "id": 21,
+    "nome": "Rivella",
+    "prezzo": 66,
+    "categoria": "Bevanda analcolica"
+  }]
